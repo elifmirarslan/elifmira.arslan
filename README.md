@@ -15,4 +15,6 @@ My GitUp profile repository
 🌱Currently improving my skills in Java and DevOps tools
 🫱🏻‍🫲🏻Open to collaborating on open-source projects. 
 
-** " Continuous learning and sharing knowledge is the key to growth." ![TiggerBouncingGIF](https://github.com/user-attachments/assets/6f0af677-db92-42c5-b39e-c68da9e2c702)
+** " Continuous learning and sharing knowledge is the key to growth." 
+
+![DoneAndDoneGIF](https://github.com/user-attachments/assets/07256978-7da1-44d0-bb97-0fe76aa82b55)
