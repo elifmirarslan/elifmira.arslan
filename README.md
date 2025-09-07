@@ -1,4 +1,4 @@
-# elifmira.arslan
+# elifmirarslan
 My GitUp profile repository
 
 # Hi there, I'm Elif 👱🏻‍♀️👋🏻
